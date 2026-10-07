@@ -1,0 +1,18 @@
+# Build output
+bin/
+*.o
+*.out
+
+# Editor/OS files
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Python cache if future tools are added
+__pycache__/
+*.pyc
